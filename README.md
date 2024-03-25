@@ -1,6 +1,9 @@
 # Microstates
 Pipeline for the microstates extraction both on a surface level, in sensor space, and in source space in a subject with multiple sclerosis using MATLAB and other dedicated tools such as EEGLAB, +microstate and Fieldtrip.
 
+In order to make the pipeline work we had to modify some +microstate function.
+We created this pipeline for a single subject but it's possible to adapt it to a cohort using already available +microstate functions.
+
 Some useful link
 FieldTrip: https://www.fieldtriptoolbox.org/
 
