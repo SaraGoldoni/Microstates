@@ -3,6 +3,7 @@ Pipeline for the microstates extraction both on a surface level, in sensor space
 
 Some useful link
 FieldTrip: https://www.fieldtriptoolbox.org/
+
 EEGLAB: https://sccn.ucsd.edu/eeglab/index.php
 
 +microstate: https://github.com/plus-microstate/plus-microstate.github.io
